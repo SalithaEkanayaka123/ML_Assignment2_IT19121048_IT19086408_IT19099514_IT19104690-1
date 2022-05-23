@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05b93d07-0a7e-4ba3-a2b6-8bc9ae8ca688" name="Changes" comment="Chnages added">
+      <change afterPath="$PROJECT_DIR$/.idea/Assignment_2_ML.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_5_19_2022_5_07_PM_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_5_19_2022_5_07_PM_[Changes]1/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_5_19_2022_5_07_PM__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_5_19_2022_8_49_PM_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_5_19_2022_8_49_PM_[Changes]1/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_5_19_2022_8_49_PM__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_5_19_2022_8_49_PM__Changes_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml-assignment2-common - Copy.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml-assignment2-common.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ml-assignment2-common.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev-it19121048" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29JLiaZ3e1n4sbluUUAKXZdW2bO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/sliit/4th year/machine learning/Assignment_2_ML&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\sliit\4th year\machine learning\Assignment_2_ML" />
+      <recent name="C:\sliit\4th year\machine learning\Assignment_2_ML\Dataset" />
+      <recent name="C:\sliit\4th year\machine learning\Assignment_2_ML\Model" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05b93d07-0a7e-4ba3-a2b6-8bc9ae8ca688" name="Changes" comment="" />
+      <created>1652826369886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652826369886</updated>
+      <workItem from="1652826371495" duration="34202000" />
+      <workItem from="1652960155856" duration="5485000" />
+      <workItem from="1652973560090" duration="2015000" />
+      <workItem from="1652976684827" duration="587000" />
+      <workItem from="1653230640725" duration="534000" />
+      <workItem from="1653231181665" duration="3858000" />
+      <workItem from="1653311401348" duration="4151000" />
+      <workItem from="1653319412462" duration="1052000" />
+      <workItem from="1653320475173" duration="981000" />
+    </task>
+    <task id="LOCAL-00001" summary="New file added">
+      <created>1652826462155</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652826462155</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Dataset added">
+      <created>1652826553256</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652826553256</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Dataset Retreived">
+      <created>1652826813362</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652826813362</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Check No of Null Rows">
+      <created>1652826909481</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652826909481</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Checking Duplicate Rows">
+      <created>1652826956943</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652826956943</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Checking Duplicate Rows">
+      <created>1652826996743</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1652826996743</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Getting information of dataset">
+      <created>1652827130172</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1652827130172</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Get datatypes with int, float">
+      <created>1652827266888</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1652827266888</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Remove GB from RAM and Kg from Weight">
+      <created>1652862633607</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1652862633608</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Changes added">
+      <created>1652866473382</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1652866473382</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Generate Original Dataset">
+      <created>1652866975201</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1652866975201</updated>
+    </task>
+    <task id="LOCAL-00012" summary="New Dataset Created">
+      <created>1652868918424</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1652868918425</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Model training Suceessful">
+      <created>1652880639046</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1652880639046</updated>
+    </task>
+    <task id="LOCAL-00014" summary="When the random state is true (In 449) accuracy is 72.84%">
+      <created>1652886774272</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1652886774272</updated>
+    </task>
+    <task id="LOCAL-00015" summary="When the random state is true (In 449) accuracy is 72.84%">
+      <created>1652892957151</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1652892957151</updated>
+    </task>
+    <task id="LOCAL-00016" summary="changes added">
+      <created>1652893414221</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1652893414221</updated>
+    </task>
+    <task id="LOCAL-00017" summary="When dropping columns with df.drop &#10;without pipeline accuracy - 0.7668858153216616&#10;with pipeline - 0.7668858153216616&#10;&#10;So with pipeline noting specially happens">
+      <created>1652941536764</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1652941536766</updated>
+    </task>
+    <task id="LOCAL-00018" summary="When dropping columns with df.drop &#10;without pipeline accuracy - 0.7668858153216616&#10;with pipeline - 0.7668858153216616&#10;&#10;So with pipeline noting specially happens">
+      <created>1652941644764</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1652941644764</updated>
+    </task>
+    <task id="LOCAL-00019" summary="When using np.log for testing dataset with dropping columns with df.drop in training &#10;&#10;Previous - 0.7668858153216616&#10;with/without pipeline - 0.8200408569709455&#10;&#10;So np.log significant change happens">
+      <created>1652941918138</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1652941918138</updated>
+    </task>
+    <task id="LOCAL-00020" summary="When using np.log for testing dataset with dropping columns with df.drop in training &#10;&#10;Previous - 0.7668858153216616&#10;with/without pipeline - 0.8200408569709455&#10;&#10;So np.log significant change happens&#10;&#10;Special thing here is if we use np.log to training dataset error occur with Input contains NaN, infinity or a value too large for dtype('float32').">
+      <created>1652942093652</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1652942093652</updated>
+    </task>
+    <task id="LOCAL-00021" summary="When using np.log for testing dataset with dropping columns with df.drop in training &#10;&#10;Previous - 0.7668858153216616&#10;with/without pipeline - 0.8200408569709455&#10;&#10;So np.log significant change happens&#10;&#10;Special thing here is if we use np.log to training dataset error occur with Input contains NaN, infinity or a value too large for dtype('float32').">
+      <created>1652942176569</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1652942176570</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Due to the same accuracy with pipeline below codes are removed">
+      <created>1652943392385</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1652943392385</updated>
+    </task>
+    <task id="LOCAL-00023" summary="When dropping type column &#10;&#10;Previous (without dropping) - 0.8200408569709455&#10;now - 0.7883011987665366&#10;&#10;So with having type column significant change happens">
+      <created>1652943657993</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1652943657993</updated>
+    </task>
+    <task id="LOCAL-00024" summary="When dropping type column &#10;&#10;Previous (without dropping) - 0.8200408569709455&#10;now - 0.7883011987665366&#10;and with adding CPU_manufacture_type accuracy increased from 0.8200 to 0.8507&#10;&#10;So with having type and CPU_manufacture_type column significant change happens">
+      <created>1652943830741</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1652943830741</updated>
+    </task>
+    <task id="LOCAL-00025" summary="when we use df.drop([]) with column drop instead of accuracy dropped ColumnTransformer&#10;&#10;Previous - 0.8507952228709466&#10;now - 0.8872182051267166&#10;dropping only CPU_manufacture_type with ColumnTransformer - 0.8875035810985037&#10;dropping only type with ColumnTransformer - 0.8893041991733325&#10;dropping both with ColumnTransformer - 0.8862410001112703&#10;&#10;&#10;So with having CPU_manufacture_type column high accuracy can be gain">
+      <created>1652944554183</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1652944554183</updated>
+    </task>
+    <task id="LOCAL-00026" summary="when we use df.drop([]) with column drop instead of accuracy dropped ColumnTransformer&#10;&#10;Previous - 0.8507952228709466&#10;now - 0.8872182051267166&#10;dropping only CPU_manufacture_type with ColumnTransformer - 0.8875035810985037&#10;dropping only type with ColumnTransformer - 0.8893041991733325&#10;dropping both with ColumnTransformer - 0.8862410001112703&#10;&#10;&#10;So with having CPU_manufacture_type column high accuracy can be gain">
+      <created>1652944631762</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1652944631762</updated>
+    </task>
+    <task id="LOCAL-00027" summary="&#10;when test size is 0.3 accurcy is 0.8691216458540366, 0.15 - 0.7668858153216616, 0.1 - 0.7620346255696927&#10;&#10;&#10;So with having CPU_manufacture_type column high accuracy can be gain">
+      <created>1652944725722</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1652944725722</updated>
+    </task>
+    <task id="LOCAL-00028" summary="&#10;when test size is 0.3 accurcy is 0.8691216458540366, 0.15 - 0.8893041991733325, 0.1 - 0.8824622418662149&#10;&#10;&#10;So with having 0.15 testing size high accuracy can be gain">
+      <created>1652944862825</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1652944862825</updated>
+    </task>
+    <task id="LOCAL-00029" summary="&#10;when test size is 0.3 accurcy is 0.8691216458540366, 0.15 - 0.8893041991733325, 0.1 - 0.8824622418662149&#10;&#10;&#10;So with having 0.15 testing size high accuracy can be gain">
+      <created>1652944903613</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1652944903613</updated>
+    </task>
+    <task id="LOCAL-00030" summary="&#10;when test size is 0.3 accurcy is 0.8691216458540366, 0.15 - 0.8893041991733325, 0.1 - 0.8824622418662149&#10;&#10;&#10;So with having 0.15 testing size high accuracy can be gain&#10;And with having random stae = 2 high accuracy is there 0.8893041991733325">
+      <created>1652945852393</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1652945852393</updated>
+    </task>
+    <task id="LOCAL-00031" summary="&#10;when RandomRegressor &#10;n_estimators = 1000 accuracy - 0.8907109890050905&#10;100 = acc - 0.8893041991733325&#10;&#10;&#10;But when increasing more than 1000 noting spcially happens to accuracy">
+      <created>1652946178027</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1652946178027</updated>
+    </task>
+    <task id="LOCAL-00032" summary="&#10;when RandomRegressor with n_estimators = 1000 &#10;&#10;random size = 1 - accuracy - 0.8911787220521755&#10;random size = 42 - accuracy - 0.8907109890050905&#10;random size = 42 - accuracy - 0.8911842454947371">
+      <created>1652946410997</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1652946410997</updated>
+    </task>
+    <task id="LOCAL-00033" summary="&#10;n_estimators=1000,&#10;random_state=2,&#10;max_samples=0.5,&#10;max_features=0.75,&#10;max_depth=100&#10;&#10;with accuracy 0.891968 can be gain">
+      <created>1652946838043</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1652946838043</updated>
+    </task>
+    <task id="LOCAL-00034" summary="&#10;n_estimators=1000,&#10;random_state=2,&#10;max_samples=0.5,&#10;max_features=0.75,&#10;max_depth=100&#10;&#10;with accuracy 0.891968 can be gain">
+      <created>1652946866674</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1652946866674</updated>
+    </task>
+    <task id="LOCAL-00035" summary="&#10;n_estimators=1000,&#10;random_state=2,&#10;max_samples=0.5,&#10;max_features=0.75,&#10;max_depth=100&#10;&#10;with accuracy 0.891968 can be gain">
+      <created>1652948933755</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1652948933755</updated>
+    </task>
+    <task id="LOCAL-00036" summary="changes added">
+      <created>1652959051716</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1652959051716</updated>
+    </task>
+    <task id="LOCAL-00037" summary="error fixing">
+      <created>1652959606754</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1652959606755</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Chnages added">
+      <created>1653317983737</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1653317983737</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Checking Duplicate Rows" />
+    <MESSAGE value="Getting information of dataset" />
+    <MESSAGE value="Get datatypes with int, float" />
+    <MESSAGE value="Remove GB from RAM and Kg from Weight" />
+    <MESSAGE value="Changes added" />
+    <MESSAGE value="Generate Original Dataset" />
+    <MESSAGE value="New Dataset Created" />
+    <MESSAGE value="Model training Suceessful" />
+    <MESSAGE value="When the random state is true (In 449) accuracy is 72.84%" />
+    <MESSAGE value="When dropping columns with df.drop &#10;without pipeline accuracy - 0.7668858153216616&#10;with pipeline - 0.7668858153216616&#10;&#10;So with pipeline noting specially happens" />
+    <MESSAGE value="When using np.log for testing dataset with dropping columns with df.drop in training &#10;&#10;Previous - 0.7668858153216616&#10;with/without pipeline - 0.8200408569709455&#10;&#10;So np.log significant change happens" />
+    <MESSAGE value="When using np.log for testing dataset with dropping columns with df.drop in training &#10;&#10;Previous - 0.7668858153216616&#10;with/without pipeline - 0.8200408569709455&#10;&#10;So np.log significant change happens&#10;&#10;Special thing here is if we use np.log to training dataset error occur with Input contains NaN, infinity or a value too large for dtype('float32')." />
+    <MESSAGE value="Due to the same accuracy with pipeline below codes are removed" />
+    <MESSAGE value="When dropping type column &#10;&#10;Previous (without dropping) - 0.8200408569709455&#10;now - 0.7883011987665366&#10;&#10;So with having type column significant change happens" />
+    <MESSAGE value="When dropping type column &#10;&#10;Previous (without dropping) - 0.8200408569709455&#10;now - 0.7883011987665366&#10;and with adding CPU_manufacture_type accuracy increased from 0.8200 to 0.8507&#10;&#10;So with having type and CPU_manufacture_type column significant change happens" />
+    <MESSAGE value="when we use df.drop([]) with column drop instead of accuracy dropped ColumnTransformer&#10;&#10;Previous - 0.8507952228709466&#10;now - 0.8872182051267166&#10;dropping only CPU_manufacture_type with ColumnTransformer - 0.8875035810985037&#10;dropping only type with ColumnTransformer - 0.8893041991733325&#10;dropping both with ColumnTransformer - 0.8862410001112703&#10;&#10;&#10;So with having CPU_manufacture_type column high accuracy can be gain" />
+    <MESSAGE value="&#10;when test size is 0.3 accurcy is 0.8691216458540366, 0.15 - 0.7668858153216616, 0.1 - 0.7620346255696927&#10;&#10;&#10;So with having CPU_manufacture_type column high accuracy can be gain" />
+    <MESSAGE value="&#10;when test size is 0.3 accurcy is 0.8691216458540366, 0.15 - 0.8893041991733325, 0.1 - 0.8824622418662149&#10;&#10;&#10;So with having 0.15 testing size high accuracy can be gain" />
+    <MESSAGE value="&#10;when test size is 0.3 accurcy is 0.8691216458540366, 0.15 - 0.8893041991733325, 0.1 - 0.8824622418662149&#10;&#10;&#10;So with having 0.15 testing size high accuracy can be gain&#10;And with having random stae = 2 high accuracy is there 0.8893041991733325" />
+    <MESSAGE value="&#10;when RandomRegressor &#10;n_estimators = 1000 accuracy - 0.8907109890050905&#10;100 = acc - 0.8893041991733325&#10;&#10;&#10;But when increasing more than 1000 noting spcially happens to accuracy" />
+    <MESSAGE value="&#10;when RandomRegressor with n_estimators = 1000 &#10;&#10;random size = 1 - accuracy - 0.8911787220521755&#10;random size = 42 - accuracy - 0.8907109890050905&#10;random size = 42 - accuracy - 0.8911842454947371" />
+    <MESSAGE value="&#10;n_estimators=1000,&#10;random_state=2,&#10;max_samples=0.5,&#10;max_features=0.75,&#10;max_depth=100&#10;&#10;with accuracy 0.891968 can be gain" />
+    <MESSAGE value="changes added" />
+    <MESSAGE value="error fixing" />
+    <MESSAGE value="Chnages added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chnages added" />
+  </component>
+</project>
